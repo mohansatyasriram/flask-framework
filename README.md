@@ -1,4 +1,4 @@
-# A Big Thank You to Krishna Naik!
+# Flask: Empowering My Machine Learning Projects
 
 I’m super excited to share my progress and the happiness I’m feeling as I dive deeper into **Flask** for the first
 time! 🎉 This journey wouldn’t have been possible without the help of **Krishna Naik**, whose tutorials and content have been
